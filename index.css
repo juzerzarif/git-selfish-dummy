@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.check-mark {
+  height: 50%;
+  width: 50%;
+}
